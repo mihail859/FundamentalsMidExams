@@ -8,4 +8,5 @@ https://github.com/mihail859/FundamentalsMidExams/blob/main/02.%20The%20Lift_Pro
 
 
 03_memory_game:
+https://github.com/mihail859/FundamentalsMidExams/blob/main/03.%20Memory%20Game_Problem%20Description.docx
 
